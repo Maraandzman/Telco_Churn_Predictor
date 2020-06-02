@@ -52,3 +52,8 @@ predict is status with relative good accuracy.
  -  rev_mtd_current         object 
  
  # EDA
+![](Customer Attrition Data)
+![](Price Plan distro)
+![](Smartphone Indicator)
+![](Tenure Distro in Customer Attrition)
+![](Days used mean)
