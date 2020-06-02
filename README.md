@@ -72,6 +72,6 @@ LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
                    random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
                    warm_start=False)
                    
-![](Classification_Report.png)
+![](Classification_Report.PNG)
 
 ![](Model_performance.png)
