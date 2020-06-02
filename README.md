@@ -52,8 +52,21 @@ predict is status with relative good accuracy.
  -  rev_mtd_current         object 
  
  # EDA
-![](Customer Attrition Data)
-![](Price Plan distro)
-![](Smartphone Indicator)
-![](Tenure Distro in Customer Attrition)
-![](Days used mean)
+![](Customer Attrition Data.png)
+![](Price Plan distro.png)
+![](Smartphone Indicator.png)
+![](Tenure Distro in Customer Attrition.png)
+![](Days used mean.png)
+
+# Model
+
+Kept a simple will performaing logistic regession classifier model:
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='multinomial', n_jobs=1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False)
+                   
+![](Classification Report.png)
+
+![](Model performance.png)
