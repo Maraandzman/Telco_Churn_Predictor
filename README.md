@@ -52,15 +52,15 @@ predict is status with relative good accuracy.
  -  rev_mtd_current         object 
  
  # EDA
-![](Customer Attrition Data.png)
+![](Customer_Attrition_Data.png)
 
-![](Price Plan distro.png)
+![](Price_Plan_distro.png)
 
-![](Smartphone Indicator.png)
+![](Smartphone_Indicator.png)
 
-![](Tenure Distro in Customer Attrition.png)
+![](Tenure_Distro_in_Customer_Attrition.png)
 
-![](Days used mean.png)
+![](Days_used_mean.png)
 
 # Model
 
@@ -72,6 +72,6 @@ LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
                    random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
                    warm_start=False)
                    
-![](Classification Report.png)
+![](Classification_Report.png)
 
-![](Model performance.png)
+![](Model_performance.png)
