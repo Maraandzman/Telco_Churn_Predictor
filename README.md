@@ -78,6 +78,6 @@ LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
 
 ![](Recharge_recency_Attrition_Group.PNG)
 
-![](Recharge_recency_days_Hist.PNG)
+![](Recharge_recency_days_Hist.png)
 
 
