@@ -5,12 +5,12 @@ Telco Churn Prediction Model
 
 A Telco business has wants to establish a prediction model to help assist their markeing team to initiate a campaign to mitigate quantity of customers churning or being inactive. 
 
-The data provided of 100 000 distinct customers, and their respective usage behaviour over the course of 2+/- years, and 
+The data provided of 100 000 distinct customers, and their respective usage behaviour over the course of 2+/- years.
 
 **Project Objective:**
 
-The target feature is a multi-class. "ACTIVE", "CHURNED", "DORMANT", "INACTIVE".
-predict is status with relative good accuracy. 
+The target feature is a multi-class labels "ACTIVE", "CHURNED", "DORMANT", "INACTIVE".
+predict status with relative good accuracy. 
 
 # Code and Resources
 ---                               
